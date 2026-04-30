@@ -22,6 +22,8 @@
 - Frontend Engineering (React, performance, UI/UX)  
 - Clean Code & Scalable Design  
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
