@@ -9,18 +9,18 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- CSE student focused on building practical web applications and improving problem-solving skills
-- Currently working on Full-Stack projects and DSA (Striver A2Z)
-- Tech stack: React, Node.js, MongoDB, TypeScript
-- Learning clean code practices and backend fundamentals
-- Goal: secure internships and grow into a strong full-stack developer
+- CSE student building practical web applications and improving problem-solving skills  
+- Currently focused on full-stack development and DSA (Striver A2Z)  
+- Working with React, Node.js, MongoDB, and TypeScript  
+- Learning backend fundamentals, clean code, and system design basics  
+- Goal: secure internships and grow into a strong full-stack engineer  
 
 
 ## 🧠 My Focus Areas
-- Data Structures & Algorithms (Striver A2Z)
-- Backend Development (Node.js, APIs, authentication)
-- Frontend Engineering (React, performance, UI/UX)
-- Clean Code & Scalable Design
+- Data Structures & Algorithms (Striver A2Z)  
+- Backend Development (Node.js, REST APIs, authentication)  
+- Frontend Engineering (React, performance, UI/UX)  
+- Clean Code & Scalable Design  
 
 
 ## 📊 GitHub Stats & Trophies
