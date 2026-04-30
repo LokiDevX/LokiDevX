@@ -22,6 +22,8 @@
 - Frontend Engineering (React, performance, UI/UX)  
 - Clean Code & Scalable Design  
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/1005536880659529808)](https://discord.com/users/1005536880659529808)
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
 
