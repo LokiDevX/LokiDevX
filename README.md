@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=lokii.dev&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20React%20%E2%80%A2%20Node.js%20%E2%80%A2%20MongoDB&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=l0k11-i2p&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20React%20%E2%80%A2%20Node.js%20%E2%80%A2%20MongoDB&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=LokiDevX">
-    <img src="https://komarev.com/ghpvc/?username=LokiDevX&label=Profile%20views&color=00FFFF&style=flat-square" alt="LokiDevX's profile views" />
+  <a href="https://komarev.com/ghpvc/?username=l0k11-i2p">
+    <img src="https://komarev.com/ghpvc/?username=l0k11-i2p&label=Profile%20views&color=00FFFF&style=flat-square" alt="l0k11-i2p profile views" />
   </a>
 </p>
 
@@ -32,7 +32,7 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                8 commits           ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.30 % 
+🌞 Morning                8 commits           ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.30 %
 🌆 Daytime                35 commits          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   40.70 % 
 🌃 Evening                17 commits          ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   19.77 % 
 🌙 Night                  26 commits          ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   30.23 % 
@@ -73,10 +73,10 @@ HTML                     1 repo              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=lokii-devx&theme=highcontrast&hide_border=true&cache_seconds=86400" alt="lokii-devx's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=l0k11-i2p&theme=highcontrast&hide_border=true&cache_seconds=86400" alt="l0k11-i2p GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=lokii-devx&theme=highcontrast&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="lokii-devx's GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=l0k11-i2p&theme=highcontrast&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="l0k11-i2p GitHub Trophies" />
 </p>
 <div align="center">
   <img src="profile-3d-city.svg" alt="3D City" width="100%" />
@@ -129,8 +129,8 @@ HTML                     1 repo              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 </p>
 
 <p align="center">
-  <a href="https://github.com/lokii-devx">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lokii-devx&langs_count=8&layout=compact&theme=highcontrast&border_radius=10" alt="Top Languages" />
+  <a href="https://github.com/l0k11-i2p">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=l0k11-i2p&langs_count=8&layout=compact&theme=highcontrast&border_radius=10" alt="Top Languages" />
   </a>
 </p>
 
